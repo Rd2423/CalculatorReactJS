@@ -76,6 +76,10 @@ function App() {
           <button onClick={calculate}>=</button>
         </div>
       </div>
+
+      <footer className="footer">
+        <h1>Made by Rayan Diouf 😃</h1>
+      </footer>
     </div>
   );
 }
