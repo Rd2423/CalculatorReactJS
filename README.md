@@ -1,8 +1,6 @@
 # Calculator React JS
 
-* Calculator React JS is a simple calculator built with React.
-* The goal of this app was for practice purposes.
-* Getting better at react js
+A simple calculator that allow you to sum up, reduce, multiply and divide numbers. Calculator ReactJS was built with react.
 
 
 Application deployed : https://vast-ravine-75433.herokuapp.com/
